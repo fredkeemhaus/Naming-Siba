@@ -3,7 +3,7 @@
   "publisher": "fredkeemhaus",
   "displayName": "naming-siba",
   "description": "When is it difficult to name a variable? naming-siba!!",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
   },
