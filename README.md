@@ -1,7 +1,5 @@
 # Naming-siba README
 
-# Korean
-
 변수 이름을 짓기 위해 파파고와 구글을 더 이상 왔다갔다 하기 귀찮아서 만들어 보았습니다.
 intelliJ에만 있어서 vscode에도 한 번 만들어 봤습니다.
 
