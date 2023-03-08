@@ -45,6 +45,10 @@ const extensionConfig = {
   infrastructureLogging: {
     level: "log", // enables logging required for problem matchers
   },
-  plugins: [new Dotenv()],
+  plugins: [
+    new Dotenv({
+      path: path.resolve(__dirname, "./.env"),
+    }),
+  ],
 };
 module.exports = [extensionConfig];
