@@ -12,6 +12,7 @@
     "Languages",
     "Other"
   ],
+  "icon": "./src/images/Safeimagekit-resized-img",
   "repository": {
     "type": "git",
     "url": "https://github.com/fredkeemhaus/Naming-Siba"
