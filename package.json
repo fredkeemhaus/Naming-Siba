@@ -1,14 +1,21 @@
 {
   "name": "naming-siba",
+  "publisher": "fredkeemhaus",
   "displayName": "naming-siba",
   "description": "When is it difficult to name a variable? naming-siba!!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
   },
+  "license": "SEE LICENSE IN LICENSE.md",
   "categories": [
+    "Languages",
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredkeemhaus/Naming-Siba"
+  },
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
