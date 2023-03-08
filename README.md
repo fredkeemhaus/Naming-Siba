@@ -7,6 +7,9 @@ intelliJ에만 있어서 vscode에도 한 번 만들어 봤습니다.
 
 텍스트를 드래그 한 뒤, 오른쪽 마우스를 클릭하면 노출됩니다.
 
+- Naming Variable (camelCase)
+- Naming Variable (snake_case)
+
 ### 단축키 조작
 
 camelCase 단축키는 `ctrl` + `shift` + `a`
